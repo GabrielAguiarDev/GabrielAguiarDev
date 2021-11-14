@@ -11,7 +11,9 @@
   <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
   <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img align="right" alt="Biel-Dev" width="130" height="130" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif"
+  <img align="center" alt="Biel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+   
+  <img align="right" alt="Biel-Dev" width="130" height="130" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
 
 </div>
  
