@@ -14,10 +14,6 @@
   <img align="center" alt="Biel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  
-  <img align="right" alt="Biel-Dev" width="240" height="180" src="https://s7.gifyu.com/images/multi.gif">
-
-<!--    https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif -->
    
 </div>
 <h2>🏆 GitHub Trophies</h2>
@@ -31,5 +27,7 @@
   <a href = "mailto:gabriel.aguiar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+  <!--    https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif -->
+  <img align="center" alt="Biel-Dev" width="440" height="400" src="https://s7.gifyu.com/images/multi.gif">
    
    ![Snake animation](https://github.com/gabrielaguiardev/gabrielaguiardev/blob/output/github-contribution-grid-snake.svg)
