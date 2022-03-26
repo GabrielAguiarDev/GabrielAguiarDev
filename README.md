@@ -1,8 +1,8 @@
 ### Heey Dev's
 <div>
   <a href="https://github.com/GabrielAguiarDev">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardev&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardev&theme=dracula"/>
 </div>
   
  <div style="display: inline_block"><br>
@@ -29,6 +29,6 @@
   <a href = "mailto:gabriel.aguiar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <img margin="auto" alt="Biel-Dev" width="470" height="350" src="https://s7.gifyu.com/images/multi.gif">
+  <img align="center" alt="Biel-Dev" width="470" height="350" src="https://s7.gifyu.com/images/multi.gif">
    
    ![Snake animation](https://github.com/gabrielaguiardev/gabrielaguiardev/blob/output/github-contribution-grid-snake.svg)
