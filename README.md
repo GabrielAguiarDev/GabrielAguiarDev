@@ -15,9 +15,10 @@
   <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
   
-   
-  <img align="right" alt="Biel-Dev" width="130" height="130" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
+  <img align="right" alt="Biel-Dev" width="280" height="230" src="https://s7.gifyu.com/images/multi.gif">
 
+<!--    https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif -->
+   
 </div>
 <h2>🏆 GitHub Trophies</h2>
 <img src="https://github-profile-trophy.vercel.app/?username=GabrielAguiarDev&theme=nord&column=7" >
