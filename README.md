@@ -19,15 +19,16 @@
   <img align="right" alt="Biel-Dev" width="130" height="130" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
 
 </div>
+<h2>🏆 GitHub Trophies</h2>
+<img src="https://github-profile-trophy.vercel.app/?username=GabrielAguiarDev&theme=nord&column=7" >
  
-  ##
-  
-  <div> 
+<h2>📞 Contact</h2>
+<div>
   <a href="https://t.me/Souobiel" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/gabriel_aguiar_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/Gabriel_Dev19" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
   <a href = "mailto:gabriel.aguiar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  </div>
+</div>
    
    ![Snake animation](https://github.com/gabrielaguiardev/gabrielaguiardev/blob/output/github-contribution-grid-snake.svg)
