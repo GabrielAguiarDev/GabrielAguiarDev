@@ -1,7 +1,8 @@
-### Hi 👋, my name is Gabriel
-##### I'm a web development student with a focus on the backend.
+## Hi 👋, my name is Gabriel
 
-<img align="right" alt="Biel-Dev" width="150" height="150" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
+  <img align="right" src="https://github.com/GabrielAguiarDev/GabrielAguiarDev/blob/main/developer.gif" alt="Hola Coders" width="400" height="300"/> 
+
+##### I'm a web development student with a focus on the backend.
 
 - 🔭 I'm currently looking for my first "official" job in the field.
 - 🌱 I'm currently learning **ReactJS**
@@ -9,6 +10,9 @@
 - 💬 Looking for friendships in the programming area...
 - 📫 How to contact me: gabriel.aguiar.dev@gmail.com
 - ⚡ Curiosity: I like games and anime
+##### Online Presence
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GabrielAguiarDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='40'>](https://www.instagram.com/devgabrielaguiar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Gabriel_Dev19)
+---
 <div>
   <a href="https://github.com/GabrielAguiarDev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula"/>
@@ -33,6 +37,5 @@
   <a href = "mailto:gabriel.aguiar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gabriel-aguiar-dev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <img align="center" alt="Biel-Dev" width="470" height="350" src="https://s7.gifyu.com/images/multi.gif">
-   
+  
    ![Snake animation](https://github.com/gabrielaguiardev/gabrielaguiardev/blob/output/github-contribution-grid-snake.svg)
