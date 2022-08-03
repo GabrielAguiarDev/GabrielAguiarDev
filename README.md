@@ -1,4 +1,14 @@
-### Hello Word!!!
+### Hi 👋, my name is Gabriel
+##### I'm a web development student with a focus on the backend.
+
+<img align="right" alt="Biel-Dev" width="150" height="150" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
+
+- 🔭 I'm currently looking for my first "official" job in the field.
+- 🌱 I'm currently learning **ReactJS**
+- 📚 2nd period at ADS faculty
+- 💬 Looking for friendships in the programming area...
+- 📫 How to contact me: gabriel.aguiar.dev@gmail.com
+- ⚡ Curiosity: I like games and anime
 <div>
   <a href="https://github.com/GabrielAguiarDev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula"/>
@@ -14,11 +24,6 @@
   <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
   <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
-  
-  <img align="right" alt="Biel-Dev" width="130" height="130" src="https://i.picasion.com/pic91/acd9411dc6d8212d5c11070cfd7758f0.gif">
-  
-<h2>🏆 GitHub Trophies</h2>
-<img src="https://github-profile-trophy.vercel.app/?username=GabrielAguiarDev&theme=nord&column=7" >
  
 <h2>📞 Contact</h2>
 <div>
