@@ -7,6 +7,7 @@
 - 🔭 I'm currently looking for my first "official" job in the field.
 - 🌱 I'm currently learning **ReactJS**
 - 📚 2nd period at ADS faculty
+- 🎯 main focus on the backend
 - 📫 How to contact me: gabriel.aguiar.dev@gmail.com
 - ⚡ Curiosity: I like games and anime
 ##### Online Presence
