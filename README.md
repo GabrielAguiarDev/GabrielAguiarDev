@@ -16,7 +16,7 @@
 <div>
   <a href="https://github.com/GabrielAguiarDev">
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardev&theme=dracula"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardev&theme=dracula&langs_count=8" />
 </div>
   
  <div style="display: inline_block"><br>
