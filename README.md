@@ -1,6 +1,22 @@
-## Hi 👋, my name is Gabriel
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:175fb3,100:00d2df&height=210&section=header&text=Gabriel%20Aguiar&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
 
-  <img align="right" src="https://github.com/GabrielAguiarDev/GabrielAguiarDev/blob/main/developer.gif" alt="Hola Coders" width="400" height="300"/> 
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielAguiarDev&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAguiarDev&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
+  
+</div>
+  
+<div style="display: inline_block"><br>
+  <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Biel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+  <img align="center" alt="Biel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+</div>
+
+<img align="right" alt="Biel-Dev" width="380" height="280" src="https://s7.gifyu.com/images/multi.gif">
 
 ##### I'm a web development student with a focus on the backend.
 
@@ -10,24 +26,6 @@
 - 🎯 main focus on the backend
 - 📫 How to contact me: gabriel.aguiar.dev@gmail.com
 - ⚡ Curiosity: I like games and anime
-##### Online Presence
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/GabrielAguiarDev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='dev' height='40'>](https://www.instagram.com/devgabrielaguiar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Gabriel_Dev19)
----
-<div>
-  <a href="https://github.com/GabrielAguiarDev">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielaguiardev&show_icons=true&theme=dracula"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielaguiardev&theme=dracula&langs_count=8" />
-</div>
-  
- <div style="display: inline_block"><br>
-  <img align="center" alt="Biel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Biel-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Biel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Biel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Biel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Biel-PHP" height="47" width="57" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
-  <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-</div>
  
 <h2>📞 Contact</h2>
 <div>
