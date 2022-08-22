@@ -21,9 +21,9 @@
 ##### I'm a web development student with a focus on the backend.
 
 - 🔭 I'm currently looking for my first "official" job in the field.
-- 🌱 I'm currently learning **ReactJS**
+- 🌱 I'm currently learning **NextJS**
 - 📚 2nd period at ADS faculty
-- 🎯 main focus on the backend
+- 🎯 main focus on web development
 - 📫 How to contact me: gabriel.aguiar.dev@gmail.com
 - ⚡ Curiosity: I like games and anime
  
