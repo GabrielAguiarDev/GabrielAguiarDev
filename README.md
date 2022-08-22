@@ -16,18 +16,31 @@
   <img align="center" alt="Biel-MySQL" height="55" width="65" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 </div>
 
-<img align="right" alt="Biel-Dev" width="380" height="280" src="https://s7.gifyu.com/images/multi.gif">
+```javascript
+  const express = require('express')
+  const app = express()
+  
+  const webDeveloper = {name:"Gabriel", stack:"Front-end Developer"}
+  
+  app.get('/', (req, res) =>{
+    return res.send(webDeveloper)
+  }),
+  
+  app.listen(3000, () =>{
+    console.log("Initing code...")
+  })
+```
 
-##### I'm a web development student with a focus on the backend.
+### <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre mim.
 
-- 🔭 I'm currently looking for my first "official" job in the field.
-- 🌱 I'm currently learning **NextJS**
-- 📚 2nd period at ADS faculty
-- 🎯 main focus on web development
-- 📫 How to contact me: gabriel.aguiar.dev@gmail.com
-- ⚡ Curiosity: I like games and anime
+- 🔭 Atualmente estou procurando meu primeiro emprego "oficial" na área.
+- 🌱 Atualmente estou aprendendo **NextJS**
+- 📚 2º período na faculdade ADS
+- 🎯 Foco para me tornar um Desenvolvedor Fullstack
+- 📫 Entre em contato comigo: gabriel.aguiar.dev@gmail.com
+- ⚡ Curiosidade: gosto de estar com amigos, gosto de jogos e animes
  
-<h2>📞 Contact</h2>
+<h2>📞 Contato</h2>
 <div>
   <a href="https://www.instagram.com/gabriel_aguiar_dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://twitter.com/Gabriel_Dev19" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
