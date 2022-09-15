@@ -37,9 +37,9 @@
 ### <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre mim.
 
 - 🔭 Atualmente estou procurando meu primeiro emprego "oficial" na área.
-- 🌱 Atualmente estou aprendendo **NextJS**
+- 🌱 Estou estudando **NextJS**
 - 📚 2º período na faculdade ADS
-- 🎯 Foco para me tornar um Desenvolvedor Fullstack
+- 🎯 Foco para futuramente me tornar um Desenvolvedor Fullstack
 - 📫 Entre em contato comigo: gabriel.aguiar.dev@gmail.com
 - ⚡ Curiosidade: gosto de estar com amigos, gosto de jogos e animes
  
