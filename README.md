@@ -52,5 +52,3 @@
   <a href="https://wa.me/+5573998486884" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%2ceb75?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabriel.aguiar.dev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-   ![Snake animation](https://github.com/gabrielaguiardev/gabrielaguiardev/blob/output/github-contribution-grid-snake.svg)
