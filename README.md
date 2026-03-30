@@ -1,47 +1,50 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:175fb3,100:00d2df&height=210&section=header&text=Gabriel%20Aguiar&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Dev%20Front%20End&descAlignY=50">
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=GabrielAguiarDev&show_icons=true&count_private=true&hide_border=true&title_color=D0C5EF&icon_color=9796f0&text_color=fbc7d4&bg_color=0d1117"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielAguiarDev&layout=compact&hide_border=true&title_color=D0C5EF&text_color=fbc7d4&bg_color=0d1117"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:175fb3,100:00d2df&height=210&section=header&text=Gabriel%20Aguiar&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Software%20Developer&descAlignY=50">
   
+<div>
+  <strong>Stack</strong><br><br>
+  <img align="center" alt="TypeScript" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
+  <img align="center" alt="React Native" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/reactnative/reactnative-original-wordmark.svg" />
+  <img align="center" alt="Next.js" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
+  <img align="center" alt="Node.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Biel-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Biel-Js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="Biel-React" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="Biel-Next" height="45" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Biel-node" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Biel-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Biel-MongoDB" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Biel-MySQL" height="44" width="54" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+
+<br>
+
+<div>
+  <strong>Outros</strong><br><br>
+  <img align="center" alt="Xcode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+  <img align="center" alt="Android Studio" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-original.svg" />
+  <img align="center" alt="Firebase" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" />
+  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+  <img align="center" alt="Github Actions" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
 </div>
 
 ---
 
 ```javascript
-  const express = require('express')
-  const app = express()
+  const express = require('express');
+
+  const app = express();
+
+  app.get('/', (req, res) => {
+    res.json({
+      name: 'Gabriel Aguiar',
+      role: 'Mobile Developer',
+      stack: ['React Native', 'TypeScript'],
+    });
+  });
   
-  const webDeveloper = {name:"Gabriel", stack:"Front-end Developer"}
-  
-  app.get('/', (req, res) =>{
-    return res.send(webDeveloper)
-  }),
-  
-  app.listen(3000, () =>{
-    console.log("Initing code...")
-  })
+  app.listen(3000, () => {
+    console.log('Server running on port 3000');
+  });
 ```
 
-### <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Um pouco sobre mim.
+### <img width="30" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre mim
 
-- 🔭 Atualmente estou procurando meu primeiro emprego "oficial" na área.
-- 🌱 Estou estudando **NextJS**
-- 📚 2º período na faculdade ADS
-- 🎯 Foco para futuramente me tornar um Desenvolvedor Fullstack
-- 📫 Entre em contato comigo: gabriel.aguiar.dev@gmail.com
-- ⚡ Curiosidade: gosto de estar com amigos, gosto de jogos e animes
+- 💼 Desenvolvedor Mobile (React Native + TypeScript)
+- 🚀 Foco em arquitetura escalável (Clean Architecture / MVVM)
+- 🌐 Experiência com React e Next.js
+- 📫 gabriel.aguiar.dev@gmail.com
  
 <h2>📞 Contato</h2>
 <div>
